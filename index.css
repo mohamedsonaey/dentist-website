@@ -147,7 +147,7 @@ body {
     .section1 {
       padding-top: 5rem;
       padding-bottom: 20px;
-      @media screen and (max-width: 767px) {
+      @media screen and (max-width: 992px) {
         padding-bottom: 50px;
       }
       .container {
@@ -361,7 +361,7 @@ body {
           margin-bottom: 30px;
         }
         .image {
-          height: 535px;
+          max-width: 535px;
           width: 66.66666667%;
           background-image: url(./images/photo-1588776814546-daab30f310ce.avif);
           background-size: cover;
