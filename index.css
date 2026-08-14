@@ -13,9 +13,7 @@ body {
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
-    @media screen and (max-width: 767px) {
-          padding-bottom: 4rem;;
-        }
+    min-height: 100vh;
     header {
       .container {
         .top {
