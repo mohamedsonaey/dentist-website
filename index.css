@@ -362,7 +362,7 @@ body {
         }
         .image3 {
           width: 66.66666667%;
-          height: clamp(350px, 65vh, 520px);
+          height: 550px;
           background-image: url(./images/photo-1588776814546-daab30f310ce.avif);
           background-size: cover;
           background-position: center;
