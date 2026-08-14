@@ -360,16 +360,15 @@ body {
         @media screen and (max-width: 767px) {
           margin-bottom: 30px;
         }
-        .image {
-          max-width: 535px;
+        .image3 {
           width: 66.66666667%;
+          height: clamp(350px, 65vh, 520px);
           background-image: url(./images/photo-1588776814546-daab30f310ce.avif);
           background-size: cover;
           background-position: center;
           background-repeat: no-repeat;
           position: relative;
           @media screen and (max-width: 992px) {
-            height: 480px;
             width: 85%;
           }
         }
