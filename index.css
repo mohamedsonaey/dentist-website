@@ -9,7 +9,7 @@ body {
     width: 100%;
     background:
       linear-gradient(135deg, #005f5a80 0%, #022a28bd 60%, #032525 100%),
-      url(./photo-1681939282781-341ac4f61996.avif);
+      url(./images/photo-1681939282781-341ac4f61996.avif);
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -362,7 +362,7 @@ body {
         .image {
           height: 535px;
           width: 66.66666667%;
-          background-image: url(./photo-1588776814546-daab30f310ce.avif);
+          background-image: url(./images/photo-1588776814546-daab30f310ce.avif);
           background-size: cover;
           background-position: center;
           background-repeat: no-repeat;
@@ -564,7 +564,7 @@ body {
     }
     .image2 {
       height: 320px;
-      background-image: url(./photo-1663182234283-28941e7612da.avif);
+      background-image: url(./images/photo-1663182234283-28941e7612da.avif);
       background-size: cover;
       background-position: center;
       background-repeat: no-repeat;
